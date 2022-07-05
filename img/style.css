@@ -1,0 +1,151 @@
+body {
+    margin: 0px;
+    font-family: 'Poppins';
+}
+
+.section-one,
+.section-two,
+.section-three {
+    margin-bottom: 150px;
+}
+
+.section-one {
+    display: flex;
+}
+
+.head-text {
+    font-size: 50px;
+    width: 100%;
+    color: rgb(58, 57, 57);
+}
+
+.h3 {
+    font-size: medium;
+    color: rgb(58, 57, 57);
+    margin-bottom: 50px;
+}
+
+.color-text {
+    color: blueviolet;
+}
+
+.head-content {
+    width: 100%;
+    padding: 5%;
+}
+
+.head-img img {
+    width: 70%;
+    padding-left: 10%;
+}
+
+.button {
+    text-decoration: none;
+    color: white;
+    background-color: blueviolet;
+    padding: 10px 40px;
+    border-radius: 200px;
+}
+
+.section-two {
+    display: flex;
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    padding: 0%;
+    margin: 0%;
+}
+
+.sec-two-img {
+    width: 70%;
+    padding-bottom: 0;
+    margin: 0%;
+    padding: 0%;
+}
+
+.sec-two-div-two {
+    width: 100%;
+    padding-right: 20%;
+    padding-left: 10%;
+    margin-top: 7%;
+
+}
+
+.sec-two-f {
+    color: rgb(92, 89, 89);
+}
+
+.sec-two-h3 {
+    font-family: 'Poppins';
+    font-size: medium;
+    font-weight: lighter;
+    color: rgb(92, 89, 89);
+    margin-bottom: 10%;
+}
+
+.sec-three-head-text {
+    text-align: center;
+    color: rgb(92, 89, 89);
+}
+
+.section-three {
+    margin-top: 10%;
+}
+
+.sec-three-head-p {
+    text-align: center;
+    color: rgb(92, 89, 89);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.sec-three-div {
+    display: flex;
+}
+
+.sec-three-con {
+    background-color: blueviolet;
+    margin: 5%;
+    color: white;
+    padding: 20px;
+    border-radius: 5%;
+    height: 20%;
+    box-shadow: 10px 10px 30px gray;
+}
+
+.sec-three-con img {
+    width: 100%;
+    align-items: center;
+}
+
+.section-four {
+    display: flex;
+    background-color: blueviolet;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px gray;
+}
+
+.section-four {
+    margin-bottom: 10%;
+}
+
+.s-media {
+    margin: 5% 10%;
+    color: white;
+}
+
+.s-media-head {
+    font-size: 30px;
+}
+
+footer {
+    background-color: blueviolet;
+    margin-bottom: 0px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.f-font {
+    font-weight: lighter;
